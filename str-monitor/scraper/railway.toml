@@ -1,8 +1,0 @@
-[build]
-builder = "DOCKERFILE"
-dockerfilePath = "Dockerfile"
-
-[deploy]
-# Railway supports cron schedules for services
-# Run twice daily at 6 AM and 6 PM Pacific
-cronSchedule = "0 14,2 * * *"
