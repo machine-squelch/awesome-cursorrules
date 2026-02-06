@@ -1,0 +1,83 @@
+[
+  {
+    "name": "Pleasanton Municipal Code - Short-Term Rentals",
+    "url": "https://www.codepublishing.com/CA/Pleasanton/",
+    "source_type": "html",
+    "jurisdiction": "pleasanton",
+    "category": "ordinance",
+    "css_selector": "#content-area",
+    "notes": "Main municipal code page. May need to navigate to specific STR chapter."
+  },
+  {
+    "name": "Pleasanton City Council Agendas",
+    "url": "https://www.cityofpleasantonca.gov/government/city-council/agendas-minutes",
+    "source_type": "html",
+    "jurisdiction": "pleasanton",
+    "category": "agenda",
+    "css_selector": "main",
+    "notes": "Check for STR-related agenda items. Council meets 1st and 3rd Tuesdays."
+  },
+  {
+    "name": "Pleasanton Planning Commission Agendas",
+    "url": "https://www.cityofpleasantonca.gov/government/commissions/planning-commission",
+    "source_type": "html",
+    "jurisdiction": "pleasanton",
+    "category": "agenda",
+    "css_selector": "main",
+    "notes": "Zoning changes affecting STR come through here first."
+  },
+  {
+    "name": "Pleasanton Business License & TOT Info",
+    "url": "https://www.cityofpleasantonca.gov/government/departments/finance/business-license",
+    "source_type": "html",
+    "jurisdiction": "pleasanton",
+    "category": "tax",
+    "css_selector": "main",
+    "notes": "TOT rate, filing requirements, business license info for STR operators."
+  },
+  {
+    "name": "Pleasanton STR Permit Application",
+    "url": "https://www.cityofpleasantonca.gov/government/departments/community-development",
+    "source_type": "html",
+    "jurisdiction": "pleasanton",
+    "category": "permit",
+    "css_selector": "main",
+    "notes": "STR permit requirements, application process, fees."
+  },
+  {
+    "name": "Alameda County Ordinance Code",
+    "url": "https://library.municode.com/ca/alameda_county/codes/code_of_ordinances",
+    "source_type": "html",
+    "jurisdiction": "alameda_county",
+    "category": "ordinance",
+    "css_selector": "#codebody",
+    "notes": "County-level STR regulations. Look for Title 6 or relevant housing sections."
+  },
+  {
+    "name": "Alameda County Board of Supervisors Agendas",
+    "url": "https://www.acgov.org/board/",
+    "source_type": "html",
+    "jurisdiction": "alameda_county",
+    "category": "agenda",
+    "css_selector": "main",
+    "notes": "County board agendas for STR-related items."
+  },
+  {
+    "name": "Alameda County TOT Information",
+    "url": "https://www.acgov.org/auditor/treasurer/tot.htm",
+    "source_type": "html",
+    "jurisdiction": "alameda_county",
+    "category": "tax",
+    "css_selector": "body",
+    "notes": "County transient occupancy tax rates and filing requirements."
+  },
+  {
+    "name": "California STR Legislation Tracker",
+    "url": "https://leginfo.legislature.ca.gov/faces/billSearchClient.xhtml",
+    "source_type": "html",
+    "jurisdiction": "california",
+    "category": "legislation",
+    "css_selector": "#main_content",
+    "notes": "Search for 'short-term rental' bills. Check quarterly, not daily."
+  }
+]
